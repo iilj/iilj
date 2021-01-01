@@ -6,6 +6,7 @@
 - AtCoder: [abb \- AtCoder](https://atcoder.jp/users/abb)
 - yukicoder: [iiljj \- yukicoder](https://yukicoder.me/users/9419)
 - Twitter: [si \(@iiljj\) / Twitter](https://twitter.com/iiljj)
+- [iilj memo \| どこかに書き残しておきたいと思ったことを集積するための場所．](https://iilj.github.io/txt/)
 
 <!--
 ### Hi there 👋
