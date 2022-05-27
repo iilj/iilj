@@ -2,7 +2,7 @@
 
 [![abb](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fabb)](https://atcoder.jp/users/abb)
 
-- C/C++/C#/Java/JavaScript/TypeScript/Ruby/PHP7/Python3/HTML5/CSS3/etc
+- C/C++/C#/Java/JavaScript/TypeScript/Ruby/PHP7/Python3/HTML/CSS/etc
 - AtCoder: [abb \- AtCoder](https://atcoder.jp/users/abb)
 - yukicoder: [iiljj \- yukicoder](https://yukicoder.me/users/9419)
 - Twitter: [si \(@iiljj\) / Twitter](https://twitter.com/iiljj)
